@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-I'm a coding enthusiast from **Andhra Pradesh, India** who enjoys solving algorithmic challenges and building useful software. My public repositories document hands-on practice in **C, C++, data structures, algorithms and web development**.
+I'm a coding enthusiast from **Andhra Pradesh** who enjoys solving algorithmic challenges and building useful software. My public repositories document hands-on practice in **C, C++, data structures, algorithms and web development**.
 
 - 🔍 **What I enjoy:** Data Structures & Algorithms, competitive programming, software engineering and exploring how systems work.
 - 🚀 **Where I'm heading:** Java backend development, Spring Boot, system design, distributed systems, AI/ML and DevOps.
